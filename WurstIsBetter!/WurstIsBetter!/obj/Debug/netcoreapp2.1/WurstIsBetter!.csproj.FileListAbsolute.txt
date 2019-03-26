@@ -1,0 +1,11 @@
+C:\Users\Rados\source\repos\WurstIsBetter!\WurstIsBetter!\bin\Debug\netcoreapp2.1\WurstIsBetter!.deps.json
+C:\Users\Rados\source\repos\WurstIsBetter!\WurstIsBetter!\bin\Debug\netcoreapp2.1\WurstIsBetter!.runtimeconfig.json
+C:\Users\Rados\source\repos\WurstIsBetter!\WurstIsBetter!\bin\Debug\netcoreapp2.1\WurstIsBetter!.runtimeconfig.dev.json
+C:\Users\Rados\source\repos\WurstIsBetter!\WurstIsBetter!\bin\Debug\netcoreapp2.1\WurstIsBetter!.dll
+C:\Users\Rados\source\repos\WurstIsBetter!\WurstIsBetter!\bin\Debug\netcoreapp2.1\WurstIsBetter!.pdb
+C:\Users\Rados\source\repos\WurstIsBetter!\WurstIsBetter!\obj\Debug\netcoreapp2.1\WurstIsBetter!.csprojAssemblyReference.cache
+C:\Users\Rados\source\repos\WurstIsBetter!\WurstIsBetter!\obj\Debug\netcoreapp2.1\WurstIsBetter!.csproj.CoreCompileInputs.cache
+C:\Users\Rados\source\repos\WurstIsBetter!\WurstIsBetter!\obj\Debug\netcoreapp2.1\WurstIsBetter!.AssemblyInfoInputs.cache
+C:\Users\Rados\source\repos\WurstIsBetter!\WurstIsBetter!\obj\Debug\netcoreapp2.1\WurstIsBetter!.AssemblyInfo.cs
+C:\Users\Rados\source\repos\WurstIsBetter!\WurstIsBetter!\obj\Debug\netcoreapp2.1\WurstIsBetter!.dll
+C:\Users\Rados\source\repos\WurstIsBetter!\WurstIsBetter!\obj\Debug\netcoreapp2.1\WurstIsBetter!.pdb
